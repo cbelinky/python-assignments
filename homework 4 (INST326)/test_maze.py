@@ -1,5 +1,5 @@
 # replace solve_maze below with the name of your script minus the .py extension
-from solve_maze import Maze
+from hw4 import Maze
 
 small_solution = [(0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (5, 2),
                        (5, 3), (5, 4), (5, 5), (6, 5)]
