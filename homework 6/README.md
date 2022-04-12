@@ -1,6 +1,6 @@
-Homework 6 for INST326 - Object Oriented Programming
+**Homework 6 for INST326 - Object Oriented Programming**
 
-**ASSIGNMENT INSTRUCTIONS**
+*ASSIGNMENT INSTRUCTIONS*
 The file establishments.csv contains information about food establishments in Prince George's County. 
 The file food_inspections.csv contains information about restaurant inspections done by the Prince George's County Health Department.
 
