@@ -1,4 +1,5 @@
-A text-based implementation of (parts of) the game 2048 by Gabriele Cirulli. See https://play2048.co/ for more information on the original game.
+## Midterm 2 for INST326 - Object Oriented Programming
 
-In the original, like numbers sum together to form increasing powers of 2. In this version, like numbers are incremented by 1 to form increasing integers. 
-You can think of these numbers as exponents of the number 2.
+### ASSIGNMENT INSTRUCTIONS
+
+The topic of this exam is the computer game 2048. You will be given code that implements the mechanics of the board; you will create a series of subclasses of an abstract class. One of your subclasses will allow a human to play the game; the others will allow the computer to do so.
