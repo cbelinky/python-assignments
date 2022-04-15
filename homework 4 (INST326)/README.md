@@ -1,5 +1,3 @@
-## Homework 4 for INST326 - Object Oriented Programming
-
 ### ASSIGNMENT INSTRUCTIONS
 For this homework assignment you will write a program that can read in a maze constructed from text characters and find a path through that maze.
 
