@@ -1,4 +1,4 @@
-### ASSIGNMENT INSTRUCTIONS
+## ASSIGNMENT INSTRUCTIONS
 For this homework assignment you will write a program that can read in a maze constructed from text characters and find a path through that maze.
 
 The maze file consists of multiple newline-terminated lines of text; each line of text should have the same number of characters. You will convert this text into a list of strings, stripping newlines off the end of each line and discarding any blank lines. The index of each string in the list can be thought of as a y coordinate; the index of each character in a string can be thought of as an x coordinate. All non-space characters in the maze represent walls; you may not pass through a wall. Your job is to generate a list of sequential (x, y) coordinate tuples representing the shortest path through the maze. In the case of the maze above, that path is:
